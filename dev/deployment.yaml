@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: newbeehives/ms-products:1.0
+        image: newbeehives/ms-frontend:1.1
         ports:
         - containerPort: 8080
